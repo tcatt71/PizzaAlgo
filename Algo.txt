@@ -1,3 +1,5 @@
 Step 1: Order the pizza
 Step 2: Wait for the delivery
-Step 3: Eat pizza
+Step 3: Check pizza
+Step 4: Give Money
+Step 5: Eat pizza
